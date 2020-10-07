@@ -4,7 +4,7 @@
 
 ## 个人信息 
 
-* 性 名：龚彪&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
+* 姓 名：龚彪&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
 * 手 机：MTg4MjgwNzc5NTI= &emsp;&emsp;邮 箱：developbiao@gmail.com    
 * 专 业：软件技术 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：Golang工程师
 
