@@ -4,7 +4,7 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
+* 性 名：龚彪&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：27  
 * 手 机：MTg4MjgwNzc5NTI= &emsp;&emsp;邮 箱：developbiao@gmail.com    
 * 专 业：软件技术 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：Golang工程师
 
@@ -28,7 +28,7 @@
     * 运用了集群、消息队列、缓存等技术解决了高并场景问题。
     
 * 解决了公司多个项目组聚合第三方渠道接口不统一接入成本。
-    
+  
     * 服务端使用多进程技术实现游戏快速自动化分包功能。
     
       
